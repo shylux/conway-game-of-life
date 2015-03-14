@@ -1,0 +1,1 @@
+A very fast Version of Conway's Game of Life. Written in C. I used posix Threads for multithreading and SDL for the output
